@@ -10,26 +10,29 @@ Cada projeto neste portfólio é organizado em um diretório separado, seguindo 
 
 # Portfolio
 
-## Projeto_01
-- [data/](Projeto_01/data/)
-- [notebooks/](Projeto_01/notebooks/)
-- [src/](Projeto_01/src/)
-- [models/](Projeto_01/models/)
-- [relatorios/](Projeto_01/relatorios/)
-- [README.md](Projeto_01/README.md)
+# Portfolio
 
-## Projeto_02
-- [data/](Projeto_02/data/)
-- [notebooks/](Projeto_02/notebooks/)
-- [src/](Projeto_02/src/)
-- [models/](Projeto_02/models/)
-- [relatorios/](Projeto_02/relatorios/)
-- [README.md](Projeto_02/README.md)
+## projeto01
+- [data/](projeto01/data/)
+- [notebooks/](projeto01/notebooks/)
+- [src/](projeto01/src/)
+- [models/](projeto01/models/)
+- [relatorios/](projeto01/relatorios/)
+- [README.md](projeto01/README.md)
+
+## projeto02
+- [data/](projeto02/data/)
+- [notebooks/](projeto02/notebooks/)
+- [src/](projeto02/src/)
+- [models/](projeto02/models/)
+- [relatorios/](projeto02/relatorios/)
+- [README.md](projeto02/README.md)
 
 ## Outros Projetos
 - ...
 
 [README.md Principal](README.md)
+
 
 
 
