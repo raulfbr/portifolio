@@ -8,23 +8,32 @@ Este repositório serve como meu portfólio profissional, exibindo uma seleção
 
 Cada projeto neste portfólio é organizado em um diretório separado, seguindo a seguinte estrutura:
 
-Portfolio/
-├── Projeto_01/
-│   ├── data/
-│   ├── notebooks/
-│   ├── src/
-│   ├── models/
-│   ├── relatorios/
-│   └── README.md
-├── Projeto_02/
-│   ├── data/
-│   ├── notebooks/
-│   ├── src/
-│   ├── models/
-│   ├── relatorios/
-│   └── README.md
-├── ...
-└── README.md
+# Portfolio
+
+# Portfolio
+
+## projeto01
+- [data/](projeto01/data/)
+- [notebooks/](projeto01/notebooks/)
+- [src/](projeto01/src/)
+- [models/](projeto01/models/)
+- [relatorios/](projeto01/relatorios/)
+- [README.md](projeto01/README.md)
+
+## projeto02
+- [data/](projeto02/data/)
+- [notebooks/](projeto02/notebooks/)
+- [src/](projeto02/src/)
+- [models/](projeto02/models/)
+- [relatorios/](projeto02/relatorios/)
+- [README.md](projeto02/README.md)
+
+## Outros Projetos
+- ...
+
+[README.md Principal](README.md)
+
+
 
 
 
