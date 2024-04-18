@@ -8,10 +8,6 @@ Este repositório serve como meu portfólio profissional, exibindo uma seleção
 
 Cada projeto neste portfólio é organizado em um diretório separado, seguindo a seguinte estrutura:
 
-# Portfolio
-
-# Portfolio
-
 ## projeto01
 - [data/](projeto01/data/)
 - [notebooks/](projeto01/notebooks/)
@@ -32,10 +28,6 @@ Cada projeto neste portfólio é organizado em um diretório separado, seguindo 
 - ...
 
 [README.md Principal](README.md)
-
-
-
-
 
 - **data/**: Armazena os conjuntos de dados utilizados no projeto, tanto os originais quanto os processados.
 - **notebooks/**: Contém os notebooks Jupyter (ou outros formatos) com o código, análises e visualizações.
