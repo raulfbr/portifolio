@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/16632335?v=4" alt="Avatar" width="150" height="150" style="border-radius: 50%;">
-
 # Portifólios de projetos
 
 
@@ -74,8 +72,9 @@ Sinta-se à vontade para explorar, clonar ou se inspirar nos projetos aqui apres
 
 <img src="https://avatars.githubusercontent.com/u/16632335?v=4" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
 
-by Raul Rodrigues
-https://www.linkedin.com/in/raulfbr/
+**Nome:** Raul Rodrigues  
+**Email:** rfbr21@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/raulfbr/
 
 
 
