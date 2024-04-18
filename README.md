@@ -1,4 +1,5 @@
-# Portfólio de Projetos
+# Portifólios de projetos
+
 
 ## Visão Geral
 
@@ -63,6 +64,19 @@ Sua contribuição é bem-vinda! Se você tiver sugestões, correções ou desej
 
 ## Licença
 
-Este repositório é licenciado sob a [Licença MIT](LICENSE).
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 Sinta-se à vontade para explorar, clonar ou se inspirar nos projetos aqui apresentados. Obrigado por visitar!
+
+# Autor
+
+<img src="https://avatars.githubusercontent.com/u/16632335?v=4" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
+
+by Raul Rodrigues
+https://www.linkedin.com/in/raulfbr/
+
+
+
+
+
+
