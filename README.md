@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/16632335?v=4" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
+
 # Portifólios de projetos
 
 
