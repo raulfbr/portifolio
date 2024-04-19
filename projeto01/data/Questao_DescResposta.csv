@@ -1,0 +1,93 @@
+﻿CodQuestao;Resposta;DescOpcaoPOR
+57625;1;Solteira (o)
+57625;2;Casada (o) / Morando Junto
+57625;3;Viúva (o)
+57625;4;Divorciada (o) / Separada (o)
+57625;97;Outros
+57627;1;Sim
+57627;2;Não
+57628;1;1 Filho (a)
+57628;2;2 Filhos (as)
+57628;3;3 Filhos (as)
+57628;4;4 Filhos (as)
+57628;5;5 Filhos (as)
+57628;6;6 Filhos (as)
+57631;1;Menos de 1 ano
+57631;2;De 1 a 3 anos
+57631;3;De 4 a 6 anos
+57631;4;De 6 a 9 anos
+57631;5;De 9 a 12 anos
+57631;6;De 13 a 15 anos
+57631;7;De 16 a 18 anos
+57631;8;Mais de 18 anos
+57632;1;Gato
+57632;2;Cachorro
+57632;3;Outros
+57632;99;Não tenho
+57635;1;Pet Shop de bairro
+57635;2;Super/ Hipermercado
+57635;3;Lojas especializadas de rede
+57635;4;Sites das Lojas especializadas
+57635;5;Mercadinho perto de casa
+57724;1;Dependente da família
+57724;2;Cuida da casa / É dono(a) de casa
+57724;3;Estudante
+57724;4;Desempregado
+57724;6;Empresário/ Sócio/ Dono de empresa
+57724;7;Profissional liberal
+57724;8;Autônomo/ Free-lancer
+57724;9;Empregado de Empresa privada
+57724;10;Funcionário público
+57724;11;Aposentado/ Pensionista
+57724;98;<B>Não tem rendimento</B>
+57724;99;<B>Tem rendimento</B>
+57727;1;Até 720,00
+57727;2;R$ 721 a 1.100
+57727;3;R$ 1.101 a 1.999
+57727;4;R$ 2.000 a 2.999
+57727;5;R$ 3.000 a 3.999
+57727;6;R$ 4.000 a 4.999
+57727;7;R$ 5.000 a 6.999
+57727;8;R$ 7.000 a 9.999
+57727;9;R$ 10.000 a 14.999
+57727;10;R$ 15.000 a 20.000
+57727;11;Acima de 20.000
+57727;99;RECUSA
+57787;0;Analfabeto/ Fundamental I incompleto
+57787;1;Fundamental I completo / Fundamental II incompleto
+57787;2;Fundamental II completo / Médio incompleto
+57787;4;Médio completo / Superior incompleto
+57787;7;Superior Completo
+57791;1;A1 (45-100)
+57791;2;B1 (38 - 44)  
+57791;3;B2 (29 - 37)
+57791;4;C1 (23 - 28)
+57791;5;C2 (17 - 22)
+57791;6;D - E (0 - 16)
+57792;1;Até 720,00
+57792;2;R$ 721 a 1.100
+57792;3;R$ 1.101 a 1.999
+57792;4;R$ 2.000 a 2.999
+57792;5;R$ 3.000 a 3.999
+57792;6;R$ 4.000 a 4.999
+57792;7;R$ 5.000 a 6.999
+57792;8;R$ 7.000 a 9.999
+57792;9;R$ 10.000 a 14.999
+57792;10;R$ 15.000 a 20.000
+57792;11;Acima de 20.000
+57792;99;RECUSA
+57871;1;Pet Shop de bairro
+57871;2;Super/ Hipermercado
+57871;3;Lojas especializadas de rede
+57871;4;Sites das Lojas especializadas
+57871;5;Mercadinho perto de casa
+122498;1;Sim 
+122498;2;Não tenho, mas quero ter 
+122498;3;Não tenho e não tenho interesse em ter
+122499;1;Transferir $$ para amigos e familiares 
+122499;2;Pagar contas 
+122499;3;Pagar compras em lojas físicas
+122499;4;Pagar compras em supermercados 
+122499;5;Pagar compras em lojas online 
+122499;6;Pagar prestadores de serviços 
+122499;7;Outros (Especificar)
