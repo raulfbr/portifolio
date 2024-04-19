@@ -6,7 +6,10 @@ Você pode conferir meus primeiros projetos de Data Science nos artigos:
 
 - [Projeto 001](https://medium.com/@raul-data-scientist/an%C3%A1lise-de-carteira-top-10-a%C3%A7%C3%B5es-16fc25c54b3e) 
 - [Projeto 002](https://medium.com/@raul-data-scientist/churn-em-app-de-delivery-sql-preditiva-ai-4519b014fd9e)
-- [Projeto 003](https://medium.com/@raul-data-scientist/otimiza%C3%A7%C3%A3o-de-custos-de-plano-de-sa%C3%BAde-regress%C3%A3o-linear-d68170b1d58e) 
+- [Projeto 003](https://medium.com/@raul-data-scientist/otimiza%C3%A7%C3%A3o-de-custos-de-plano-de-sa%C3%BAde-regress%C3%A3o-linear-d68170b1d58e)
+- [Projeto 004](https://medium.com/@raul-data-scientist/python-vers%C3%A3o-1-1-churn-em-app-de-delivery-sql-preditiva-ai-e00bf8e7b958)
+
+
 
 ## Tópicos Abordados
 Nesses projetos, utilizei o Excel como ferramenta principal e mergulhei em conceitos essenciais de Data Analytics, incluindo:
