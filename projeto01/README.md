@@ -52,7 +52,7 @@ Qualquer ferramenta open-source poderá ser utilizada, porém a preferência é:
 
 ## Metodologia
 
-De início foi necessário realizar a juntar de todoas as tabelas conforme diagrama relacional, após foi utilizado a metodologia CRISP-DM, de forma interativa.
+Inicialmente, foi essencial unir todas as tabelas de acordo com o diagrama relacional. Posteriormente, adotei a metodologia CRISP-DM de maneira interativa para orientar o processo.
 
 ### Tecnologias Utilizadas
 
@@ -67,20 +67,25 @@ De início foi necessário realizar a juntar de todoas as tabelas conforme diagr
 - 
 ## Resultados
 
-Todos os insigths então dentro do código Python.
+- Todos os insights estão diretamente no código Python.
+- Embora não fosse um requisito incial, de forma proativa, desenvolvi insights com base nas respostas às perguntas levantadas, baseada em dados.
 
 ## Conclusões Pessoais
 
-1. Aprofundei-me na função `merge` do Python, conduzindo estudos para aplicá-la na junção de tabelas relacionais.
-2. Compreendi a importância e eficácia do uso do método `astype` durante operações de merge para garantir a consistência dos dados.
-3. Aprimorei minhas habilidades em manipulação de datas, utilizando o `pd.to_datetime` para tratamento adequado de informações temporais.
-4. Apliquei técnicas para transformar respostas, tanto únicas quanto múltiplas, em linhas separadas para melhor análise e organização dos dados.
-5. Inicialmente, subestimei o tempo necessário para a conclusão do projeto. Portantoa reforcei o aprendizado de que é essencial estabelecer tanto um **prazo otimista** quanto um **pessimista** ao iniciar qualquer projeto. Isso ajuda a antecipar possíveis obstáculos e manter a transparência com o cliente ao longo do processo.
+1. Aprofundei-me na função `merge` do Python, realizando estudos para aplicá-la eficientemente na junção de tabelas relacionais.
+2. Reconheci a importância e eficácia do método `astype` durante as operações de merge, assegurando a consistência e integridade dos dados.
+3. Aprimorei minhas habilidades em manipulação de datas, utilizando o `pd.to_datetime` para um tratamento mais preciso de informações temporais.
+4. Implementei técnicas para converter respostas, sejam elas únicas ou múltiplas, em linhas separadas, visando aprimorar a análise e organização dos dados.
+5. Inicialmente, subestimei o tempo requerido para concluir o projeto. Reforcei a importância de estabelecer prazos tanto otimistas quanto pessimistas ao iniciar qualquer projeto, permitindo antecipar desafios e manter uma comunicação transparente com o cliente durante todo o processo.
 
+- Adorei o desafio de conduzir um projeto completamente independente, sem orientações prévias e sem garantias de estar no caminho certo (que simula situações da vida real). Aproveitei essa oportunidade para explorar e aprender a utilizar a ferramenta KNIME, conhecida por sua abordagem NoCode. O arquivo `knwf` está disponível na pasta "notebooks".
 
 ## Como Contribuir
 
-Instruções para contribuição, incluindo como configurar o ambiente de desenvolvimento, executar o projeto localmente e os passos para submissão de novas funcionalidades ou correções.
+Para contribuir:
+1. Configure seu ambiente de desenvolvimento.
+2. Clone o repositório e execute localmente.
+3. Crie um branch, implemente e faça um pull request com uma descrição clara de suas alterações.
 
 ## Licença
 
