@@ -6,7 +6,7 @@
 
 ## 🔍 Navegação
 
-Cada projeto possui sua própria pasta com a seguinte estrutura:
+Cada projeto possui sua própria pasta com a seguinte estrutura (quando aplicável):
 
 * **/data**: Conjuntos de dados utilizados.
 * **/notebooks**: Notebooks com código e análises.
@@ -19,8 +19,8 @@ Cada projeto possui sua própria pasta com a seguinte estrutura:
 
 ## 📊 Projetos em Destaque
 
-* **[Projeto 01: Análise de Dados de Pesquisas de Opinião](projeto01/README.md):** Análise de dados de pesquisas para obter insights sobre o perfil dos participantes e suas respostas. (Python, Pandas, KNIME)
-* **[Adicione outros projetos aqui]**
+* **[Projeto 01: Análise de Dados de Pesquisas de Opinião](https://github.com/raulfbr/portifolio/tree/main/001%20-%20Projeto):** Análise de dados de pesquisas para obter insights sobre o perfil dos participantes e suas respostas. (Python, Pandas, KNIME)
+* **[Outros Projetos serão vinculados aqui]**
 
 ---
 
@@ -59,5 +59,6 @@ Sugestões e contribuições são bem-vindas! Sinta-se à vontade para abrir uma
 
 * **Email:** rfbr21@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/raulfbr/
+* **Medium:** https://medium.com/@raulfbr
 
 ---
