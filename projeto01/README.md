@@ -1,4 +1,7 @@
-# Nome do Projeto
+# Projeto 01
+
+Este foi o primeiro projeto que realizei 100% sem ajuda de qualquer professor ou vídeo resposta. Foi 100% realizado com pesquisas na internet e inteligência artificial.
+
 
 ## Resolva o seguinte case:
 
