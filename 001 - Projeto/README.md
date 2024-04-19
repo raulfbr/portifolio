@@ -9,16 +9,16 @@
 **Destaques:**
 
 * **Junção de Dados:** Consolidação de cinco conjuntos de dados em uma única tabela com informações completas. 📊
-* **Análise Demográfica:** Idade, sexo, região e renda dos participantes. 👨‍👩‍👧‍👦
-* **Análise de Comportamento:** Uso do Pix para diferentes finalidades. 💰
+* **Análise Demográfica:** Idade, sexo, região e renda dos participantes. 
+* **Análise de Comportamento:** Uso do Pix para diferentes finalidades. 
 * **Insights Gerados:**  Identificação de padrões e tendências para decisões estratégicas. 📈 
 
 **Aprendizados:**
 
 * **Manipulação de Dados com Pandas:** `merge`, `astype`, `pd.to_datetime`. 🐍
-* **Transformação de Dados:** Conversão de respostas em linhas. 🔁
-* **Gestão de Tempo e Projetos:** Prazos e comunicação. ⏱️
-* **Exploração de Novas Ferramentas:** KNIME. 🤖
+* **Transformação de Dados:** Conversão de respostas em linhas.
+* **Gestão de Tempo e Projetos:** Prazos e comunicação. 
+* **Exploração de Novas Ferramentas:** KNIME.
 
 **Observação:** O projeto demonstra habilidades em manipulação de dados, análise exploratória, estatística descritiva e geração de insights.  💪
 
