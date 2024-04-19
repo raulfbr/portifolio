@@ -58,12 +58,14 @@ De início foi necessário realizar a juntar de todoas as tabelas conforme diagr
 
 Todos os insigths então dentro do código Python.
 
-## Conclusões
+## Conclusões Pessoais
 
-1. Aprofundar na função `merge` do Python, realizei estudos em cima para conseguir jntar conforme a tabela relacional
+1. Aprofundei-me na função `merge` do Python, conduzindo estudos para aplicá-la na junção de tabelas relacionais.
+2. Compreendi a importância e eficácia do uso do método `astype` durante operações de merge para garantir a consistência dos dados.
+3. Aprimorei minhas habilidades em manipulação de datas, utilizando o `pd.to_datetime` para tratamento adequado de informações temporais.
+4. Apliquei técnicas para transformar respostas, tanto únicas quanto múltiplas, em linhas separadas para melhor análise e organização dos dados.
+5. Inicialmente, subestimei o tempo necessário para a conclusão do projeto. Portantoa reforcei o aprendizado de que é essencial estabelecer tanto um **prazo otimista** quanto um **pessimista** ao iniciar qualquer projeto. Isso ajuda a antecipar possíveis obstáculos e manter a transparência com o cliente ao longo do processo.
 
-
-Conclusões finais sobre o projeto, destacando os principais aprendizados, limitações e possíveis trabalhos futuros.
 
 ## Como Contribuir
 
