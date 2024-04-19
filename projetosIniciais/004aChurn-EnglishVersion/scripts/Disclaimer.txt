@@ -1,0 +1,2 @@
+
+calcula_iv: This version was implemented with a chatbot and inspired by the `calculate_iv` function from Preditiva.Ai.

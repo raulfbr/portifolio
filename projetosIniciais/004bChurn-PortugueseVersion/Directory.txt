@@ -1,0 +1,24 @@
+# Porfolio Churn com Python
+
+O artigo original está em [medium.com](https://medium.com/@raul-data-scientist)
+
+ATUALIZAÇÃO: Na verdade, tudo isso foi para conhecimento, porque na verdade não estava no mesmo diretório. Preste atenção da próxima vez! :)
+
+Na minha experiência, já tenho uma configuração prévia para simplificar minhas análises. Então, crio uma pasta e coloco todos os arquivos dentro dela. No entanto, quando tentei ler o arquivo 'churn_data.csv' usando o Pandas para carregá-lo em um dataframe, a função read_csv retornou um erro informando que o arquivo não estava no mesmo diretório, embora estivesse.
+
+Para resolver esse problema, busquei ajuda de chatbots para encontrar uma solução. Descobri que o problema era devido ao arquivo original ter sido criado em outro diretório. Para confirmar isso, usei o seguinte código:
+
+```python
+import os
+print(os.getcwd())
+```
+
+Este código confirmou que o diretório era de fato diferente. Para resolver isso, alterei o diretório de trabalho usando:
+
+```python
+import os
+os.chdir(path)
+#Docstring: Change the current working directory to the specified path.
+```
+
+Este comando altera o diretório de trabalho atual para o caminho especificado. Com esse problema resolvido, pude prosseguir com minha análise. Agora, vamos começar de verdade.
