@@ -4,7 +4,7 @@
 
 Você pode conferir meus primeiros projetos de Data Science nos artigos:
 
-- [Projeto 01](https://medium.com/@raul-data-scientist/an%C3%A1lise-de-carteira-top-10-a%C3%A7%C3%B5es-16fc25c54b3e) 
+- [Projeto 001](https://medium.com/@raul-data-scientist/an%C3%A1lise-de-carteira-top-10-a%C3%A7%C3%B5es-16fc25c54b3e) 
 - [Projetos 002](https://medium.com/@raul-data-scientist/churn-em-app-de-delivery-sql-preditiva-ai-4519b014fd9e)
 - [Projetos 003](https://medium.com/@raul-data-scientist/otimiza%C3%A7%C3%A3o-de-custos-de-plano-de-sa%C3%BAde-regress%C3%A3o-linear-d68170b1d58e) 
 
