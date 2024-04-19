@@ -20,8 +20,6 @@
 * **Gestão de Tempo e Projetos:** Prazos e comunicação. ⏱️
 * **Exploração de Novas Ferramentas:** KNIME. 🤖
 
-**Repositório:** https://github.com/raulfbr/portifolio/tree/main/projeto01
-
 **Observação:** O projeto demonstra habilidades em manipulação de dados, análise exploratória, estatística descritiva e geração de insights.  💪
 
 ---
