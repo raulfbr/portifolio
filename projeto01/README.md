@@ -45,6 +45,10 @@ Mais do que as respostas finais, o foco está na implementação das suas soluç
 Qualquer ferramenta open-source poderá ser utilizada, porém a preferência é:
 - Utilizar somente Pandas para soluções em Python
 
+- Segue minha considerações:
+  
+
+
 ## Metodologia
 
 De início foi necessário realizar a juntar de todoas as tabelas conforme diagrama relacional, após foi utilizado a metodologia CRISP-DM, de forma interativa.
