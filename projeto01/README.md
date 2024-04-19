@@ -1,6 +1,9 @@
 # Projeto 01
 
-Este foi o primeiro projeto que realizei 100% sem ajuda de qualquer professor ou vídeo resposta. Foi 100% realizado com pesquisas na internet e inteligência artificial.
+Este foi o primeiro projeto que realizei 100% sem ajuda de qualquer professor ou vídeo resposta. Foi 100% realizado com pesquisas na internet e inteligência artificial. (Leia a conclusão, onde aponto as habilidades aprendidas/reforçadas)
+
+
+Recebi o seguinte case via e-mail:
 
 
 ## Resolva o seguinte case:
