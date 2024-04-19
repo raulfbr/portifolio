@@ -6,16 +6,16 @@ No mundo corporativo, dados são fundamentais para embasar decisões estratégic
 
 Empresas denominadas "Painéis" desempenham um papel crucial nesse contexto. Elas estabelecem uma ponte (preservando o anonimato) entre sua comunidade de participantes, conhecidos como Painelistas, e grandes corporações em busca de insights.
 
-Este exercício se concentra em dados simulados de uma empresa de Painel. A organização mantém um grupo de Painelistas (arquivo Painelista.csv) que estão motivados a participar de pesquisas de opinião em troca de compensações financeiras.
+Este exercício se concentra em dados simulados de uma empresa de Painel. A organização mantém um grupo de Painelistas (arquivo `Painelista.csv`) que estão motivados a participar de pesquisas de opinião em troca de compensações financeiras.
 
-As respostas dos Painelistas são coletadas através das Pesquisas (arquivo Pesquisa.csv), com duas pesquisas já registradas para este exercício.
-O relacionamento entre os Painelistas e as Pesquisas é documentado no arquivo Painelista_Pesquisa.csv. As contribuições de cada Painelista para cada pesquisa são armazenadas em Resposta.csv.
-As pesquisas são compostas por Questões, e as alternativas de resposta estão listadas em OpcoesDeRespostas.csv.
+As respostas dos Painelistas são coletadas através das Pesquisas (arquivo `Pesquisa.csv`), com duas pesquisas já registradas para este exercício.
+O relacionamento entre os Painelistas e as Pesquisas é documentado no arquivo `Painelista_Pesquisa.csv`. As contribuições de cada Painelista para cada pesquisa são armazenadas em `Resposta.csv`.
+As pesquisas são compostas por Questões, e as alternativas de resposta estão listadas em `OpcoesDeRespostas.csv`.
 Um diagrama que ilustra as interconexões entre esses arquivos pode ser encontrado abaixo para uma compreensão visual do processo.
 
-
-![DiagramRelacional](https://github.com/raulfbr/portifolio/blob/main/projeto01/data/DiagramaRelacional.png?raw=true){width=50%}
-
+<p align="center">
+  <img src="https://github.com/raulfbr/portifolio/blob/main/projeto01/data/DiagramaRelacional.png?raw=true" alt="DiagramRelacional" width="50%">
+</p>
 
 
 ### 1. Junção dos Conjuntos de Dados
@@ -39,38 +39,29 @@ Mais do que as respostas finais, o foco está na implementação das suas soluç
 Qualquer ferramenta open-source poderá ser utilizada, porém a preferência é:
 - Utilizar somente Pandas para soluções em Python
 
-## Descrição
-
-Breve descrição do projeto, apresentando o contexto, o problema abordado e a solução proposta.
-
-## Objetivos
-
-- **Objetivo Principal**: Descrição do objetivo principal do projeto.
-- **Objetivos Secundários**: Lista de objetivos secundários ou metas a serem alcançadas.
-
 ## Metodologia
 
-Explicação detalhada dos métodos, técnicas e ferramentas utilizados no desenvolvimento do projeto.
+De início foi necessário realizar a juntar de todoas as tabelas conforme diagrama relacional, após foi utilizado a metodologia CRISP-DM, de forma interativa.
 
 ### Tecnologias Utilizadas
 
-- Linguagens de Programação: [Linguagem(s) utilizada(s)]
-- Frameworks e Bibliotecas: [Frameworks e bibliotecas utilizadas]
-- Ferramentas: [Outras ferramentas ou plataformas utilizadas]
+- Linguagens de Programação: [Python]
+- Frameworks e Bibliotecas: [Pandas]
+- Ferramentas: [KNIME]
 
 ## Estrutura do Projeto
 
-- **data/**: Conjuntos de dados utilizados no projeto.
-- **notebooks/**: Notebooks Jupyter ou outros formatos com o código, análises e visualizações.
-- **src/**: Scripts com funções e classes reutilizáveis.
-- **models/**: Modelos de Machine Learning ou Deep Learning treinados.
-- **reports/**: Relatórios gerados a partir das análises.
-
+- **data/**: Conjuntos de tabelas/dados utilizados no projeto.
+- **notebooks/**: Notebooks Jupyter com o código e insigths.
+- 
 ## Resultados
 
-Apresentação dos resultados obtidos, incluindo métricas, gráficos e insights relevantes.
+Todos os insigths então dentro do código Python.
 
 ## Conclusões
+
+1. Aprofundar na função `merge` do Python, realizei estudos em cima para conseguir jntar conforme a tabela relacional
+
 
 Conclusões finais sobre o projeto, destacando os principais aprendizados, limitações e possíveis trabalhos futuros.
 
