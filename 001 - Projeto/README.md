@@ -1,33 +1,30 @@
 ## Projeto 01: Análise de Dados de Pesquisas de Opinião 📊
 
-**Desafio:** Analisar dados simulados de uma empresa de pesquisa de opinião para obter insights sobre o perfil dos participantes e suas respostas.
+**Desafio:** Analisar dados simulados de uma empresa de pesquisa de opinião para obter insights sobre o perfil dos participantes e suas respostas. 🔎
 
-**Ferramentas:** Python (Pandas), KNIME (No-Code)
+**Ferramentas:** Python (Pandas) 🐍, KNIME (No-Code) 🤖
 
-**Metodologia:** CRISP-DM
+**Metodologia:** CRISP-DM 🔁
 
 **Destaques:**
 
-* **Junção de Dados:** Consolidação de cinco conjuntos de dados em uma única tabela com informações completas sobre os participantes e suas respostas.
-* **Análise Demográfica:** Cálculo da média e desvio padrão da idade dos participantes, análise da distribuição por sexo, região e renda.
-* **Análise de Comportamento:** Avaliação do uso do Pix para diferentes finalidades, segmentado por sexo e outras características.
-* **Insights Gerados:**  Identificação de padrões e tendências para auxiliar na tomada de decisões estratégicas da empresa de pesquisa. 
+* **Junção de Dados:** Consolidação de cinco conjuntos de dados em uma única tabela com informações completas. 📊
+* **Análise Demográfica:** Idade, sexo, região e renda dos participantes. 👨‍👩‍👧‍👦
+* **Análise de Comportamento:** Uso do Pix para diferentes finalidades. 💰
+* **Insights Gerados:**  Identificação de padrões e tendências para decisões estratégicas. 📈 
 
 **Aprendizados:**
 
-* **Manipulação de Dados com Pandas:**  Aprofundamento no uso da função `merge` e métodos como `astype` e `pd.to_datetime`.
-* **Transformação de Dados:**  Conversão de respostas em linhas separadas para facilitar a análise.
-* **Gestão de Tempo e Projetos:**  Importância de estabelecer prazos realistas e manter comunicação transparente com o cliente. 
-* **Exploração de Novas Ferramentas:**  Utilização do KNIME para análise de dados sem código.
+* **Manipulação de Dados com Pandas:** `merge`, `astype`, `pd.to_datetime`. 🐍
+* **Transformação de Dados:** Conversão de respostas em linhas. 🔁
+* **Gestão de Tempo e Projetos:** Prazos e comunicação. ⏱️
+* **Exploração de Novas Ferramentas:** KNIME. 🤖
 
 **Repositório:** https://github.com/raulfbr/portifolio/tree/main/projeto01
 
-**Observação:** O projeto demonstra habilidades em manipulação de dados, análise exploratória, estatística descritiva e geração de insights.
-
-
+**Observação:** O projeto demonstra habilidades em manipulação de dados, análise exploratória, estatística descritiva e geração de insights.  💪
 
 ---
-
 
 # Case recebido:
 
