@@ -1,8 +1,35 @@
-# Projeto 01
+## Projeto 01: Análise de Dados de Pesquisas de Opinião 📊
 
-Realizado sem ajuda externa, este projeto foi concluído com pesquisa online e IA. O case foi recebido via e-mail e os dados são fictícios. (Confira as conclusões para habilidades reforçadas/aprendidas.)
+**Desafio:** Analisar dados simulados de uma empresa de pesquisa de opinião para obter insights sobre o perfil dos participantes e suas respostas.
 
-## Resolva o seguinte case:
+**Ferramentas:** Python (Pandas), KNIME (No-Code)
+
+**Metodologia:** CRISP-DM
+
+**Destaques:**
+
+* **Junção de Dados:** Consolidação de cinco conjuntos de dados em uma única tabela com informações completas sobre os participantes e suas respostas.
+* **Análise Demográfica:** Cálculo da média e desvio padrão da idade dos participantes, análise da distribuição por sexo, região e renda.
+* **Análise de Comportamento:** Avaliação do uso do Pix para diferentes finalidades, segmentado por sexo e outras características.
+* **Insights Gerados:**  Identificação de padrões e tendências para auxiliar na tomada de decisões estratégicas da empresa de pesquisa. 
+
+**Aprendizados:**
+
+* **Manipulação de Dados com Pandas:**  Aprofundamento no uso da função `merge` e métodos como `astype` e `pd.to_datetime`.
+* **Transformação de Dados:**  Conversão de respostas em linhas separadas para facilitar a análise.
+* **Gestão de Tempo e Projetos:**  Importância de estabelecer prazos realistas e manter comunicação transparente com o cliente. 
+* **Exploração de Novas Ferramentas:**  Utilização do KNIME para análise de dados sem código.
+
+**Repositório:** https://github.com/raulfbr/portifolio/tree/main/projeto01
+
+**Observação:** O projeto demonstra habilidades em manipulação de dados, análise exploratória, estatística descritiva e geração de insights.
+
+
+
+---
+
+
+# Case recebido:
 
 No mundo corporativo, dados são fundamentais para embasar decisões estratégicas. As pesquisas de opinião emergem como valiosas fontes desses dados. Para conduzi-las de forma eficaz, é essencial contar com indivíduos dispostos a compartilhar suas perspectivas.
 
@@ -40,41 +67,6 @@ Mais do que as respostas finais, o foco está na implementação das suas soluç
 
 Qualquer ferramenta open-source poderá ser utilizada, porém a preferência é:
 - Utilizar somente Pandas para soluções em Python
-
-- Segue minha considerações:
-  
-
-# Desenvolvimento do projeto:
-
-## Metodologia
-
-Inicialmente, foi essencial unir todas as tabelas de acordo com o diagrama relacional. Posteriormente, adotei a metodologia CRISP-DM de maneira interativa para orientar o processo.
-
-### Tecnologias Utilizadas
-
-- Linguagens de Programação: [Python]
-- Frameworks e Bibliotecas: [Pandas]
-- Ferramentas: [KNIME]
-
-## Estrutura do Projeto
-
-- **data/**: Conjuntos de tabelas/dados utilizados no projeto.
-- **notebooks/**: Notebooks Jupyter com o código e insigths.
-- 
-## Resultados
-
-- Todos os insights estão diretamente no código Python.
-- Embora não fosse um requisito incial, de forma proativa, desenvolvi insights com base nas respostas às perguntas levantadas, baseada em dados.
-
-## Conclusões Pessoais
-
-1. Aprofundei-me na função `merge` do Python, realizando estudos para aplicá-la eficientemente na junção de tabelas relacionais.
-2. Reconheci a importância e eficácia do método `astype` durante as operações de merge, assegurando a consistência e integridade dos dados.
-3. Aprimorei minhas habilidades em manipulação de datas, utilizando o `pd.to_datetime` para um tratamento mais preciso de informações temporais.
-4. Implementei técnicas para converter respostas, sejam elas únicas ou múltiplas, em linhas separadas, visando aprimorar a análise e organização dos dados.
-5. Inicialmente, subestimei o tempo requerido para concluir o projeto. Reforcei a importância de estabelecer prazos tanto otimistas quanto pessimistas ao iniciar qualquer projeto, permitindo antecipar desafios e manter uma comunicação transparente com o cliente durante todo o processo.
-
-- Adorei o desafio de conduzir um projeto completamente independente, sem orientações prévias e sem garantias de estar no caminho certo (que simula situações da vida real). Aproveitei essa oportunidade para explorar e aprender a utilizar a ferramenta KNIME, conhecida por sua abordagem NoCode. O arquivo `knwf` está disponível na pasta "notebooks".
 
 ## Como Contribuir
 
