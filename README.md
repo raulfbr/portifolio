@@ -1,83 +1,63 @@
-# Portifólios de projetos
+# 📁 Portfólio de Projetos em Data Science
 
+**Explore uma seleção de projetos que demonstram minhas habilidades em análise de dados, Machine Learning e geração de insights.**
 
-## Visão Geral
+---
 
-Este repositório serve como meu portfólio profissional, exibindo uma seleção cuidadosamente curada dos meus projetos mais recentes e relevantes. Aqui, você encontrará uma ampla variedade de projetos, desde aplicações web e mobile até scripts e análises de dados.
+## 🔍 Navegação
 
-## Estrutura do Repositório
+Cada projeto possui sua própria pasta com a seguinte estrutura:
 
-Cada projeto neste portfólio é organizado em um diretório separado, seguindo a seguinte estrutura:
+* **/data**: Conjuntos de dados utilizados.
+* **/notebooks**: Notebooks com código e análises.
+* **/src**: Scripts com funções e classes reutilizáveis.
+* **/models**: Modelos de Machine Learning treinados.
+* **/reports**: Relatórios gerados.
+* **README.md**: Descrição detalhada do projeto.
 
-## projeto01
-- [data/](projeto01/data/)
-- [notebooks/](projeto01/notebooks/)
-- [src/](projeto01/src/)
-- [models/](projeto01/models/)
-- [relatorios/](projeto01/relatorios/)
-- [README.md](projeto01/README.md)
+---
 
-## projeto02
-- [data/](projeto02/data/)
-- [notebooks/](projeto02/notebooks/)
-- [src/](projeto02/src/)
-- [models/](projeto02/models/)
-- [relatorios/](projeto02/relatorios/)
-- [README.md](projeto02/README.md)
+## 📊 Projetos em Destaque
 
-## Outros Projetos
-- ...
+* **[Projeto 01: Análise de Dados de Pesquisas de Opinião](projeto01/README.md):** Análise de dados de pesquisas para obter insights sobre o perfil dos participantes e suas respostas. (Python, Pandas, KNIME)
+* **[Adicione outros projetos aqui]**
 
-[README.md Principal](README.md)
+---
 
-- **data/**: Armazena os conjuntos de dados utilizados no projeto, tanto os originais quanto os processados.
-- **notebooks/**: Contém os notebooks Jupyter (ou outros formatos) com o código, análises e visualizações.
-- **src/**: Guarda scripts Python (ou de outras linguagens) com funções e classes reutilizáveis.
-- **models/**: Armazena os modelos de Machine Learning ou Deep Learning treinados.
-- **reports/**: Contém relatórios gerados a partir das análises, podendo ser em PDF, HTML, etc.
-- **README.md**: Um arquivo markdown com a descrição do projeto, objetivos, metodologia, resultados e conclusões.
+## 🎯 Objetivos
 
+Este portfólio visa demonstrar:
 
-## Detalhes dos Projetos
+* **Habilidades técnicas:** Análise de dados, Machine Learning, visualização de dados, etc.
+* **Metodologia:** Aplicação de métodos científicos para resolver problemas.
+* **Qualidade de código:** Código limpo, organizado e bem documentado.
+* **Capacidade de gerar insights:** Transformação de dados em informações valiosas para tomada de decisões.
 
-Cada projeto inclui:
+---
 
-- **Descrição Concisa**: Breve resumo do projeto e seus principais objetivos.
-- **Tecnologias Utilizadas**: Lista das tecnologias, frameworks e bibliotecas empregadas.
-- **Links Úteis**: Links para o código-fonte, demos ao vivo e qualquer documentação relevante.
+## 🔄 Atualizações
 
-## Objetivos
+O portfólio é atualizado regularmente com novos projetos e melhorias.
 
-O objetivo principal deste portfólio é demonstrar não apenas minhas habilidades técnicas, mas também:
+---
 
-- Metodologia de resolução de problemas
-- Qualidade do código
-- Capacidade de trabalhar em equipe, quando aplicável
+## 🤝 Contribuição
 
-## Atualizações
+Sugestões e contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou pull request.
 
-Este portfólio será atualizado periodicamente à medida que novos projetos forem concluídos ou projetos existentes receberem atualizações significativas.
+---
 
-## Contribuição
+## 📝 Licença
 
-Sua contribuição é bem-vinda! Se você tiver sugestões, correções ou desejar contribuir com um projeto, sinta-se à vontade para abrir uma issue ou pull request.
+[MIT License](LICENSE)
 
-## Licença
+---
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+# 👨‍💻 Autor
 
-Sinta-se à vontade para explorar, clonar ou se inspirar nos projetos aqui apresentados. Obrigado por visitar!
+**Raul Rodrigues**
 
-# Autor
+* **Email:** rfbr21@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/raulfbr/
 
-<img src="https://avatars.githubusercontent.com/u/16632335?v=4" alt="Avatar" style="border-radius: 50%; width: 150px; height: 150px;">
-
-**Nome:** Raul Rodrigues  
-**Email:** rfbr21@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/raulfbr/
-
-
-
-
-
-
+---
