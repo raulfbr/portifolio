@@ -38,7 +38,7 @@ As pesquisas são compostas por Questões, e as alternativas de resposta estão 
 Um diagrama que ilustra as interconexões entre esses arquivos pode ser encontrado abaixo para uma compreensão visual do processo.
 
 <p align="center">
-  <img src="https://github.com/raulfbr/portifolio/blob/main/projeto01/data/DiagramaRelacional.png?raw=true" alt="DiagramRelacional" width="50%">
+  <img src="https://github.com/raulfbr/portifolio/blob/main/001%20-%20Projeto/data/DiagramaRelacional.png?raw=true" alt="DiagramRelacional" width="50%">
 </p>
 
 
