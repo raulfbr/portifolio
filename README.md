@@ -19,7 +19,8 @@ Cada projeto possui sua própria pasta com a seguinte estrutura (quando aplicáv
 
 ## 📊 Projetos em Destaque
 
-* **[Projeto 01: Análise de Dados de Pesquisas de Opinião](https://github.com/raulfbr/portifolio/tree/main/001%20-%20Projeto):** Análise de dados de pesquisas para obter insights sobre o perfil dos participantes e suas respostas. (Python, Pandas, KNIME)
+* **[Projeto 01: Análise de Dados de Pesquisas de Opinião](https://github.com/raulfbr/portifolio/tree/main/001Projeto):** Análise de dados de pesquisas para obter insights sobre o perfil dos participantes e suas respostas. (Python, Pandas, KNIME)
+* **[Projeto 002: Análise de Risco de Inadimplência em Fintech](https://github.com/raulfbr/portifolio/tree/main/002Projeto):** Investigar fatores de risco associados à inadimplência em empréstimos pessoais utilizando dados de clientes de uma fintech. Python (Pandas, NumPy, Matplotlib, Seaborn) 🐍
 * **[Outros Projetos serão vinculados aqui]**
 
 ---
