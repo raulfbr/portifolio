@@ -19,7 +19,11 @@ CRISP-DM 🔁
 - **Técnicas de EDA**: Análise descritiva.
 - **Visualização de Dados com Seaborn**: pairplot, countplot.
 - **Cálculo de Information Value**: Implementação de função personalizada para calcular o IV. 
-- **Interpretação de Resultados**: Tradução de insights analíticos em ações práticas para o negócio. 
+- **Interpretação de Resultados**: Tradução de insights analíticos em ações práticas para o negócio.
+
+## Observação
+O projeto demonstra habilidades em análise de risco e ações para serem executadas para mitigar a inadimplência.
+
 
 ---
 
@@ -42,5 +46,3 @@ CRISP-DM 🔁
 - Implementar sistemas de alerta para identificar sinais de potencial inadimplência. 
 - Investir em educação financeira para conscientizar os clientes sobre a importância da gestão financeira responsável. 
 
-## Observação
-O projeto demonstra habilidades em análise de risco e ações para serem executadas para mitigar a inadimplência.
