@@ -46,3 +46,13 @@ O projeto demonstra habilidades em análise de risco e ações para serem execut
 - Implementar sistemas de alerta para identificar sinais de potencial inadimplência. 
 - Investir em educação financeira para conscientizar os clientes sobre a importância da gestão financeira responsável. 
 
+## Como Contribuir
+
+Para contribuir:
+1. Configure seu ambiente de desenvolvimento.
+2. Clone o repositório e execute localmente.
+3. Crie um branch, implemente e faça um pull request com uma descrição clara de suas alterações.
+
+## Licença
+
+Este projeto é licenciado sob a [Licença MIT](LICENSE).
