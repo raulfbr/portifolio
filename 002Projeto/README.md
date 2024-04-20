@@ -4,7 +4,7 @@
 Investigar fatores de risco associados à inadimplência em empréstimos pessoais utilizando dados de clientes de uma fintech. 🔎
 
 ## Ferramentas
-Python (Pandas, NumPy, Matplotlib, Seaborn) 🐍
+Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`) 🐍
 
 ## Metodologia
 CRISP-DM 🔁
