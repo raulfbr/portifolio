@@ -1,4 +1,4 @@
-## Projeto 01: Análise de Dados de Pesquisas de Opinião 📊
+# Projeto 01: Análise de Dados de Pesquisas de Opinião 📊
 
 **Desafio:** Analisar dados simulados de uma empresa de pesquisa de opinião para obter insights sobre o perfil dos participantes e suas respostas. 🔎
 
