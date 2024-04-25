@@ -4,7 +4,7 @@
 Investigar fatores de risco associados à inadimplência em empréstimos pessoais utilizando dados de clientes de uma fintech. 🔎
 
 ## Ferramentas
-Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`) 🐍
+Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Sklearn`, `Stasmodels`, `time`, `tqdm`, `Sci-Py`)  🐍
 
 ## Metodologia
 CRISP-DM 🔁
@@ -20,6 +20,12 @@ CRISP-DM 🔁
 - **Visualização de Dados com Seaborn**: pairplot, countplot.
 - **Cálculo de Information Value**: Implementação de função personalizada para calcular o IV. 
 - **Interpretação de Resultados**: Tradução de insights analíticos em ações práticas para o negócio.
+- *_Machine Learning_*
+>    - Regressão Linear (Linear Regression)
+>    - Regressão Logísca (Logistic Regression)
+>    - Random Forest (Random Forest)
+>    - Gradient Boosting 
+>    - Redes Neurais (Neural Network)
 
 ## Observação
 O projeto demonstra habilidades em análise de risco e ações para serem executadas para mitigar a inadimplência.
