@@ -20,7 +20,7 @@ CRISP-DM 🔁
 - **Visualização de Dados com Seaborn**: pairplot, countplot.
 - **Cálculo de Information Value**: Implementação de função personalizada para calcular o IV. 
 - **Interpretação de Resultados**: Tradução de insights analíticos em ações práticas para o negócio.
-- *_Machine Learning_*
+- *_Machine Learning:_*
 >    - Regressão Linear (Linear Regression)
 >    - Regressão Logísca (Logistic Regression)
 >    - Random Forest (Random Forest)
