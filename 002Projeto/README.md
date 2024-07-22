@@ -1,64 +1,64 @@
-# Projeto 002: Análise de Risco de Inadimplência em Fintech 📉
+# Project 002: Default Risk Analysis in Fintech 📉
 
-## Desafio
-Investigar fatores de risco associados à inadimplência em empréstimos pessoais utilizando dados de clientes de uma fintech. 🔎
+## Challenge
+Investigate risk factors associated with default on personal loans using data from fintech customers. 🔎
 
-## Ferramentas
-Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Sklearn`, `Stasmodels`, `time`, `tqdm`, `Sci-Py`)  🐍
+## Tools
+Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Sklearn`, `Stasmodels`, `time`, `tqdm`, `Sci-Py`) 🐍
 
-## Metodologia
+## Methodology
 CRISP-DM 🔁
 
-## Destaques
-- **Information Value (IV)**: Avaliação do poder preditivo das variáveis em relação à variável target. 🎯
-- **Análise Exploratória de Dados (EDA)**: Compreensão do perfil dos clientes e da distribuição da inadimplência. 
-- **Visualização de Dados**: Utilização de gráficos para identificar padrões e tendências nas variáveis. 
-- **Insights de Negócio**: Identificação de fatores de risco e sugestões de medidas para mitigar a inadimplência.
+## Highlights
+- **Information Value (IV)**: Assessment of the predictive power of variables in relation to the target variable. 🎯
+- **Exploratory Data Analysis (EDA)**: Understanding the customer profile and the distribution of defaults.
+- **Data Visualization**: Use of graphs to identify patterns and trends in variables.
+- **Business Insights**: Identification of risk factors and suggestions for measures to mitigate default.
 
-## Aprendizados (reforçar)
-- **Técnicas de EDA**: Análise descritiva.
-- **Visualização de Dados com Seaborn**: pairplot, countplot.
-- **Cálculo de Information Value**: Implementação de função personalizada para calcular o IV. 
-- **Interpretação de Resultados**: Tradução de insights analíticos em ações práticas para o negócio.
+## Learnings (reinforce)
+- **EDA techniques**: Descriptive analysis.
+- **Data Visualization with Seaborn**: pairplot, countplot.
+- **Information Value Calculation**: Implementation of a custom function to calculate the IV.
+- **Interpretation of Results**: Translation of analytical insights into practical actions for the business.
 - *_Machine Learning:_*
->    - Regressão Linear (Linear Regression)
->    - Regressão Logísca (Logistic Regression)
->    - Random Forest (Random Forest)
->    - Gradient Boosting 
->    - Redes Neurais (Neural Network)
+> - Linear Regression (Linear Regression)
+> - Logistic Regression
+> - Random Forest (Random Forest)
+> - Gradient Boosting
+> - Neural Networks (Neural Network)
 
-## Observação
-O projeto demonstra habilidades em análise de risco e ações para serem executadas para mitigar a inadimplência.
+## Observation
+The project demonstrates skills in risk analysis and actions to be taken to mitigate default.
 
 
 ---
 
-## - **Perguntas para serem respondidas**🚨
-1. Qual é o perfil dos clientes em relação à inadimplência com base nas variáveis individuais?
-2. Quais variáveis têm correlação linear e alto Information Value (IV) com a inadimplência?
-3. Quais fatores influenciam diretamente a inadimplência, considerando causalidade entre as variáveis?
-4. Quais medidas a fintech deve adotar para minimizar a inadimplência com base nos fatores de risco identificados?
--  Todas as respostam estão dentro do Notebooks, segue resumo:
+## - **Questions to be answered**🚨
+1. What is the customer profile in relation to default based on individual variables?
+2. Which variables have a linear correlation and high Information Value (IV) with default?
+3. What factors directly influence default, considering causality between the variables?
+4. What measures should fintech adopt to minimize defaults based on the identified risk factors?
+- All answers are within Notebooks, below is a summary:
 
-## Principais Insights 💡
-- **Saldo de Conta Corrente**: Clientes com baixo saldo em conta corrente apresentam maior risco de inadimplência. 📉
-- **Duração do Empréstimo**: Empréstimos de maior duração estão associados a taxas de inadimplência mais elevadas. 
-- **Sexo**: Homens demonstram uma taxa de inadimplência significativamente maior do que mulheres.
-- **Escolaridade e Tipo de Moradia**: Influenciam o risco de inadimplência, mas com menor poder preditivo.
+## Key Insights 💡
+- **Current Account Balance**: Customers with a low current account balance have a higher risk of default. 📉
+- **Loan Duration**: Loans of longer duration are associated with higher default rates.
+- **Sex**: Men demonstrate a significantly higher default rate than women.
+- **Education and Type of Housing**: They influence the risk of default, but with less predictive power.
 
-## Recomendações 📋
-- Segmentar clientes com base no saldo da conta corrente e na duração do empréstimo. 
-- Oferecer soluções personalizadas para clientes de alto risco, como limites de crédito mais baixos ou prazos de pagamento mais curtos. 
-- Implementar sistemas de alerta para identificar sinais de potencial inadimplência. 
-- Investir em educação financeira para conscientizar os clientes sobre a importância da gestão financeira responsável. 
+## Recommendations 📋
+- Segment customers based on current account balance and loan duration.
+- Offer customized solutions for high-risk customers, such as lower credit limits or shorter payment terms.
+- Implement alert systems to identify signs of potential default.
+- Invest in financial education to raise awareness among customers about the importance of responsible financial management.
 
-## Como Contribuir
+## How to Contribute
 
-Para contribuir:
-1. Configure seu ambiente de desenvolvimento.
-2. Clone o repositório e execute localmente.
-3. Crie um branch, implemente e faça um pull request com uma descrição clara de suas alterações.
+To contribute:
+1. Set up your development environment.
+2. Clone the repository and run locally.
+3. Create a branch, deploy and make a pull request with a clear description of your changes.
 
-## Licença
+## License
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
