@@ -1,77 +1,78 @@
-# Projeto 001: Análise de Dados de Pesquisas de Opinião 📊
+# Project 001: Opinion Survey Data Analysis 📊
 
-## Desafio 
-Analisar dados simulados de uma empresa de pesquisa de opinião para obter insights sobre o perfil dos participantes e suas respostas. 🔎
+## Challenge
+Analyze simulated data from a polling company to gain insights into the profile of participants and their responses. 🔎
 
-## Ferramentas 
+## Tools
 Python (Pandas) 🐍, KNIME (No-Code) 🤖
 
-## Metodologia 
+## Methodology
 CRISP-DM 🔁
 
-## Destaques
-* **Junção de Dados:** Consolidação de cinco conjuntos de dados em uma única tabela com informações completas. 📊
-* **Análise Demográfica:** Idade, sexo, região e renda dos participantes. 
-* **Análise de Comportamento:** Uso do Pix para diferentes finalidades. 
-* **Insights Gerados:**  Identificação de padrões e tendências para decisões estratégicas. 📈 
+## Highlights
+* **Data Joining:** Consolidation of five sets of data into a single table with complete information. 📊
+* **Demographic Analysis:** Age, gender, region and income of participants.
+* **Behavior Analysis:** Use of Pix for different purposes.
+* **Insights Generated:** Identification of patterns and trends for strategic decisions. 📈
 
-## Aprendizados
-* **Manipulação de Dados com Pandas:** `merge`, `astype`, `pd.to_datetime`. 🐍
-* **Transformação de Dados:** Conversão de respostas em linhas.
-* **Gestão de Tempo e Projetos:** Prazos e comunicação. 
-* **Exploração de Novas Ferramentas:** KNIME.
+## Learnings
+* **Data Manipulation with Pandas:** `merge`, `astype`, `pd.to_datetime`. 🐍
+* **Data Transformation:** Conversion of responses into lines.
+* **Time and Project Management:** Deadlines and communication.
+* **Exploration of New Tools:** KNIME.
 
-## Observação
-O projeto demonstra habilidades em manipulação de dados, análise exploratória, estatística descritiva e geração de insights.  💪
+
+## Observation
+The project demonstrates skills in data manipulation, exploratory analysis, descriptive statistics and generation of insights. 💪
 
 ---
 
-# Case recebido:
+# Case received:
 
-No mundo corporativo, dados são fundamentais para embasar decisões estratégicas. As pesquisas de opinião emergem como valiosas fontes desses dados. Para conduzi-las de forma eficaz, é essencial contar com indivíduos dispostos a compartilhar suas perspectivas.
+In the corporate world, data is essential to support strategic decisions. Opinion polls emerge as valuable sources of this data. To conduct them effectively, it is essential to have individuals willing to share their perspectives.
 
-Empresas denominadas "Painéis" desempenham um papel crucial nesse contexto. Elas estabelecem uma ponte (preservando o anonimato) entre sua comunidade de participantes, conhecidos como Painelistas, e grandes corporações em busca de insights.
+Companies called "Panels" play a crucial role in this context. They establish a bridge (preserving anonymity) between their community of participants, known as Panelists, and large corporations looking for insights.
 
-Este exercício se concentra em dados simulados de uma empresa de Painel. A organização mantém um grupo de Painelistas (arquivo `Painelista.csv`) que estão motivados a participar de pesquisas de opinião em troca de compensações financeiras.
+This exercise focuses on simulated data from a Panel company. The organization maintains a group of Panelists (file `Painelista.csv`) who are motivated to participate in opinion polls in exchange for financial compensation.
 
-As respostas dos Painelistas são coletadas através das Pesquisas (arquivo `Pesquisa.csv`), com duas pesquisas já registradas para este exercício.
-O relacionamento entre os Painelistas e as Pesquisas é documentado no arquivo `Painelista_Pesquisa.csv`. As contribuições de cada Painelista para cada pesquisa são armazenadas em `Resposta.csv`.
-As pesquisas são compostas por Questões, e as alternativas de resposta estão listadas em `OpcoesDeRespostas.csv`.
-Um diagrama que ilustra as interconexões entre esses arquivos pode ser encontrado abaixo para uma compreensão visual do processo.
+Panelist responses are collected through Surveys (`Pesquisa.csv` file), with two surveys already registered for this exercise.
+The relationship between Panelists and Surveys is documented in the `Panelista_Pesquisa.csv` file. Each Panelist's contributions to each survey are stored in `Response.csv`.
+The surveys are composed of Questions, and the alternative answers are listed in `OpcoesDeRespostas.csv`.
+A diagram illustrating the interconnections between these files can be found below for a visual understanding of the process.
 
 <p align="center">
   <img src="https://github.com/raulfbr/portifolio/blob/main/001Projeto/data/DiagramaRelacional.png?raw=true" alt="DiagramRelacional" width="50%">
 </p>
 
 
-### 1. Junção dos Conjuntos de Dados
-Realize a junção dos cinco conjuntos de dados e crie uma única tabela que inclua todas as respostas dos 600 Painelistas nas duas pesquisas. Esta tabela deve conter 5551 linhas (uma para cada resposta) e 14 colunas. Um exemplo com 23 linhas dessa tabela pode ser encontrado no arquivo `Modelo01.csv`.
+### 1. Joining Data Sets
+Merge the five sets of data and create a single table that includes all responses from the 600 Panelists in both surveys. This table must contain 5551 rows (one for each answer) and 14 columns. An example with 23 lines of this table can be found in the file `Modelo01.csv`.
 
-### 2. Análise de Dados
-Utilize os dados no formato que preferir para responder às seguintes questões:
+### 2. Data Analysis
+Use the data in your preferred format to answer the following questions:
 
-   **a.** Qual é a média e o desvio padrão de idade dos 600 Painelistas? Pode ser necessário fazer algumas aproximações para responder a esta questão, e a sua metodologia de aproximação será avaliada.
+ **a.** What is the mean and standard deviation of the age of the 600 Panelists? It may be necessary to make some approximations to answer this question, and your approximation methodology will be evaluated.
 
-   **b.** Qual é a porcentagem de Painelistas que têm filho(s) e são do sexo feminino?
+ **b.** What percentage of Panelists have child(ren) and are female?
 
-   **c.** Qual é a porcentagem de Painelistas da região SUL que têm uma renda mensal de até R$ 2.999?
+ **c.** What is the percentage of Panelists in the SOUTH region who have a monthly income of up to R$2,999?
 
-   **d.** Qual é a porcentagem dos 600 Painelistas que utilizam o Pix para cada uma das finalidades pesquisadas?
+ **d.** What percentage of the 600 Panelists use Pix for each of the purposes researched?
 
-   **e.** Qual é a porcentagem de Painelistas que utilizam o Pix para [Transferir dinheiro para amigos e familiares] OU [Pagar compras em lojas online] e são do sexo masculino?
+ **e.** What percentage of Panelists use Pix to [Transfer money to friends and family] OR [Pay for purchases in online stores] and are male?
 
-Mais do que as respostas finais, o foco está na implementação das suas soluções em Python. Portanto, é crucial enviar o arquivo ipynb com o código desenvolvido para chegar às respostas.
+More than the final answers, the focus is on implementing your solutions in Python. Therefore, it is crucial to send the ipynb file with the developed code to get the answers.
 
-Qualquer ferramenta open-source poderá ser utilizada, porém a preferência é:
-- Utilizar somente Pandas para soluções em Python
+Any open-source tool can be used, but the preference is:
+- Only use Pandas for Python solutions
 
-## Como Contribuir
+## How to Contribute
 
-Para contribuir:
-1. Configure seu ambiente de desenvolvimento.
-2. Clone o repositório e execute localmente.
-3. Crie um branch, implemente e faça um pull request com uma descrição clara de suas alterações.
+To contribute:
+1. Set up your development environment.
+2. Clone the repository and run locally.
+3. Create a branch, deploy and make a pull request with a clear description of your changes.
 
-## Licença
+## License
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
